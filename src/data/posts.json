@@ -1,0 +1,58 @@
+[
+    {
+        "nombreUsuario": "mathLover123",
+        "imgUsuario":"https://reactjs.org/logo-og.png" ,
+        "doc": "https://reactjs.org/logo-og.png",
+        "descripcion": "Un conjunto de ejercicios resueltos sobre ecuaciones lineales y sistemas de ecuaciones para practicar para el próximo examen de matemáticas.",
+        "tema": "Matemáticas",
+        "materia": "Álgebra",
+        "fecha": "2024-04-29",
+        "año": "Quinto grado",
+        "id": "kadcsocjo"
+    },
+    {
+        "nombreUsuario": "historyBuff87",
+        "imgUsuario":"https://reactjs.org/logo-og.png" ,
+        "doc": "https://reactjs.org/logo-og.png",
+        "descripcion": "Breve resumen sobre la Revolución Industrial y sus consecuencias en Europa y el mundo, ideal para repasar para el trabajo de historia del próximo viernes.",
+        "tema": "Historia",
+        "materia": "Historia del Mundo Contemporáneo",
+        "fecha": "2024-04-28",
+        "año": "Cuarto año de universidad",
+        "id": "48uu934"
+    },
+    {
+        "nombreUsuario": "bioNerd99",
+        "imgUsuario":"https://reactjs.org/logo-og.png" ,
+        "doc": "https://reactjs.org/logo-og.png",
+        "descripcion": "Introducción a la genética mendeliana y sus leyes, con ejemplos prácticos para entender mejor el tema. Perfecto para repasar para el examen final de biología.",
+        "tema": "Biología",
+        "materia": "Genética",
+        "fecha": "2024-04-27",
+        "año": "Sexto grado",
+        "id": "29eu2d9c"
+    },
+    {
+        "nombreUsuario": "litFanatic22",
+        "imgUsuario":"https://reactjs.org/logo-og.png" ,
+        "doc": "https://reactjs.org/logo-og.png",
+        "descripcion": "Análisis del realismo mágico en la obra 'Cien años de soledad' de Gabriel García Márquez, con referencias a otros autores latinoamericanos. ¡Imprescindible para los amantes de la literatura!",
+        "tema": "Literatura",
+        "materia": "Literatura Latinoamericana",
+        "fecha": "2024-04-26",
+        "año": "Segundo año de universidad",
+        "id": "19191991nshs"
+    },
+    {
+        "nombreUsuario": "chemGeek55",
+        "imgUsuario":"https://reactjs.org/logo-og.png" ,
+        "doc": "https://reactjs.org/logo-og.png",
+        "descripcion": "Guía de estudio sobre reacciones orgánicas y sus mecanismos, con ejemplos detallados y resolución de problemas. ¡Prepárate para el examen de química con esta ayuda!",
+        "tema": "Química",
+        "materia": "Química Orgánica",
+        "fecha": "2024-04-25",
+        "año": "Tercer grado",
+        "id": "iqu932yfbc"
+    }
+  ]
+  
